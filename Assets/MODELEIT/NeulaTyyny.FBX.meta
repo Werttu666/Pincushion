@@ -330,7 +330,7 @@ ModelImporter:
       name: JumpMidle
       takeName: Take 001
       firstFrame: 123
-      lastFrame: 127
+      lastFrame: 130
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
