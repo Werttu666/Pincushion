@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 912ebef41dba9a6489ba907a74d9078f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AIVO_Paloina_0
+    21300002: AIVO_Paloina_1
+    21300004: AIVO_Paloina_2
+    21300006: AIVO_Paloina_3
+    21300008: AIVO_Paloina_4
+    21300010: AIVO_Paloina_5
+    21300012: AIVO_Paloina_6
+    21300014: AIVO_Paloina_7
+    21300016: AIVO_Paloina_8
+    21300018: AIVO_Paloina_9
+    21300020: AIVO_Paloina_10
+    21300022: AIVO_Paloina_11
+    21300024: AIVO_Paloina_12
+    21300026: AIVO_Paloina_13
+    21300028: AIVO_Paloina_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AIVO_Paloina_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 908
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1013
+        width: 271
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 959
+        width: 281
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_3
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 960
+        width: 217
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_4
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 933
+        width: 156
+        height: 215
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_5
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 534
+        width: 258
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_6
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 499
+        width: 204
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 500
+        width: 312
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 511
+        width: 161
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 492
+        width: 168
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 133
+        width: 154
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 103
+        width: 247
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_12
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 75
+        width: 312
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_13
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 104
+        width: 344
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AIVO_Paloina_14
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 44
+        width: 186
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
