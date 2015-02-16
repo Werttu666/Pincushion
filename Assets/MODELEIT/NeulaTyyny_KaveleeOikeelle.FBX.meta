@@ -76,6 +76,9 @@ ModelImporter:
     4300012: NuppiNeula1
     4300014: SilmaNeula
     7400000: WalkRight
+    7400002: JumpRightStart
+    7400004: JumpRightMidle
+    7400006: JumpRightEnd
     9500000: //RootNode
     13700000: NUKKE
   materials:
@@ -108,6 +111,234 @@ ModelImporter:
       loopBlend: 1
       loopBlendOrientation: 1
       loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hips
+        weight: 1
+      - path: KINGI/Hips/Head
+        weight: 1
+      - path: KINGI/Hips/Head/HeadTip
+        weight: 0
+      - path: KINGI/Hips/Head/MiekkaNeula
+        weight: 0
+      - path: KINGI/Hips/LeftArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm/HuovutusNeula
+        weight: 0
+      - path: KINGI/Hips/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hips/NAULA
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula1
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula2
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula3
+        weight: 0
+      - path: KINGI/Hips/RightArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1/LeftFoot 1
+        weight: 1
+      - path: KINGI/Hips/SilmaNeula
+        weight: 0
+      - path: NUKKE
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: JumpRightStart
+      takeName: Take 001
+      firstFrame: 115
+      lastFrame: 123
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hips
+        weight: 1
+      - path: KINGI/Hips/Head
+        weight: 1
+      - path: KINGI/Hips/Head/HeadTip
+        weight: 0
+      - path: KINGI/Hips/Head/MiekkaNeula
+        weight: 0
+      - path: KINGI/Hips/LeftArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm/HuovutusNeula
+        weight: 0
+      - path: KINGI/Hips/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hips/NAULA
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula1
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula2
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula3
+        weight: 0
+      - path: KINGI/Hips/RightArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1/LeftFoot 1
+        weight: 1
+      - path: KINGI/Hips/SilmaNeula
+        weight: 0
+      - path: NUKKE
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: JumpRightMidle
+      takeName: Take 001
+      firstFrame: 123
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hips
+        weight: 1
+      - path: KINGI/Hips/Head
+        weight: 1
+      - path: KINGI/Hips/Head/HeadTip
+        weight: 0
+      - path: KINGI/Hips/Head/MiekkaNeula
+        weight: 0
+      - path: KINGI/Hips/LeftArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm/HuovutusNeula
+        weight: 0
+      - path: KINGI/Hips/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hips/NAULA
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula1
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula2
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula3
+        weight: 0
+      - path: KINGI/Hips/RightArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1/LeftFoot 1
+        weight: 1
+      - path: KINGI/Hips/SilmaNeula
+        weight: 0
+      - path: NUKKE
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: JumpRightEnd
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
       keepOriginalPositionY: 0
