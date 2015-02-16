@@ -2598,7 +2598,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbb737f77500e4441b174627104325d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 7
+  speed: 5
   jumpSpeed: 300
   myAnim: {fileID: 504664835}
 --- !u!50 &504664837
@@ -5942,6 +5942,10 @@ Prefab:
     - target: {fileID: 11400002, guid: 041b17a0eb05db74fa6d21149f3818b4, type: 2}
       propertyPath: jumpSpeed
       value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 041b17a0eb05db74fa6d21149f3818b4, type: 2}
+      propertyPath: speed
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 041b17a0eb05db74fa6d21149f3818b4, type: 2}

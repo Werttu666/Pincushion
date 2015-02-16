@@ -19,6 +19,14 @@ ModelImporter:
     100026: Line002
     100028: Plane001
     100030: //RootNode
+    100032: Plane005
+    100034: Box003
+    100036: Plane006
+    100038: Plane007
+    100040: Box004
+    100042: Plane008
+    100044: Plane009
+    100046: Plane010
     400000: Box001
     400002: Box002
     400004: Cylinder001
@@ -35,6 +43,14 @@ ModelImporter:
     400026: Line002
     400028: Plane001
     400030: //RootNode
+    400032: Plane005
+    400034: Box003
+    400036: Plane006
+    400038: Plane007
+    400040: Box004
+    400042: Plane008
+    400044: Plane009
+    400046: Plane010
     2300000: Box001
     2300002: Box002
     2300004: Cylinder001
@@ -49,6 +65,15 @@ ModelImporter:
     2300022: Cylinder010
     2300024: Line002
     2300026: Plane001
+    2300028: Line001
+    2300030: Plane005
+    2300032: Box003
+    2300034: Plane006
+    2300036: Plane007
+    2300038: Box004
+    2300040: Plane008
+    2300042: Plane009
+    2300044: Plane010
     3300000: Box001
     3300002: Box002
     3300004: Cylinder001
@@ -63,6 +88,15 @@ ModelImporter:
     3300022: Cylinder010
     3300024: Line002
     3300026: Plane001
+    3300028: Line001
+    3300030: Plane005
+    3300032: Box003
+    3300034: Plane006
+    3300036: Plane007
+    3300038: Box004
+    3300040: Plane008
+    3300042: Plane009
+    3300044: Plane010
     4300000: Cylinder001
     4300002: Cylinder002
     4300004: Cylinder003
@@ -77,6 +111,15 @@ ModelImporter:
     4300022: Line002
     4300024: Plane001
     4300026: Box002
+    4300028: Line001
+    4300030: Plane005
+    4300032: Box003
+    4300034: Plane006
+    4300036: Plane007
+    4300038: Plane008
+    4300040: Plane009
+    4300042: Box004
+    4300044: Plane010
     9500000: //RootNode
   materials:
     importMaterials: 1
