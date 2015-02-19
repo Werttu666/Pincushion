@@ -28,6 +28,7 @@ ModelImporter:
     100044: RightHand
     100046: RightUpLeg
     100048: SilmaNeula
+    100050: JewStar
     400000: Head
     400002: HeadTip
     400004: Hips
@@ -53,6 +54,7 @@ ModelImporter:
     400044: RightHand
     400046: RightUpLeg
     400048: SilmaNeula
+    400050: JewStar
     2300000: HuovutusNeula
     2300002: MiekkaNeula
     2300004: NAULA
@@ -60,6 +62,7 @@ ModelImporter:
     2300008: NuppiNeula2
     2300010: NuppiNeula3
     2300012: SilmaNeula
+    2300014: JewStar
     3300000: HuovutusNeula
     3300002: MiekkaNeula
     3300004: NAULA
@@ -67,6 +70,7 @@ ModelImporter:
     3300008: NuppiNeula2
     3300010: NuppiNeula3
     3300012: SilmaNeula
+    3300014: JewStar
     4300000: NUKKE
     4300002: MiekkaNeula
     4300004: HuovutusNeula
@@ -75,6 +79,7 @@ ModelImporter:
     4300010: NuppiNeula2
     4300012: NuppiNeula1
     4300014: SilmaNeula
+    4300016: JewStar
     7400000: Idle
     7400002: Walk
     7400004: JumpStart

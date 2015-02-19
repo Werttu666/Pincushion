@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: e594aac2f788bc34eaac4bef12b6706e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Head
+    100002: HeadTip
+    100004: Hips
+    100006: HuovutusNeula
+    100008: JewStar
+    100010: KINGI
+    100012: LeftArm
+    100014: LeftDownLeg
+    100016: LeftDownLeg 1
+    100018: LeftFoot
+    100020: LeftFoot 1
+    100022: LeftForeArm
+    100024: LeftHand
+    100026: LeftUpLeg
+    100028: MiekkaNeula
+    100030: NAULA
+    100032: //RootNode
+    100034: NUKKE
+    100036: NuppiNeula1
+    100038: NuppiNeula2
+    100040: NuppiNeula3
+    100042: RightArm
+    100044: RightForeArm
+    100046: RightHand
+    100048: RightUpLeg
+    100050: SilmaNeula
+    400000: Head
+    400002: HeadTip
+    400004: Hips
+    400006: HuovutusNeula
+    400008: JewStar
+    400010: KINGI
+    400012: LeftArm
+    400014: LeftDownLeg
+    400016: LeftDownLeg 1
+    400018: LeftFoot
+    400020: LeftFoot 1
+    400022: LeftForeArm
+    400024: LeftHand
+    400026: LeftUpLeg
+    400028: MiekkaNeula
+    400030: NAULA
+    400032: //RootNode
+    400034: NUKKE
+    400036: NuppiNeula1
+    400038: NuppiNeula2
+    400040: NuppiNeula3
+    400042: RightArm
+    400044: RightForeArm
+    400046: RightHand
+    400048: RightUpLeg
+    400050: SilmaNeula
+    2300000: HuovutusNeula
+    2300002: JewStar
+    2300004: MiekkaNeula
+    2300006: NAULA
+    2300008: NuppiNeula1
+    2300010: NuppiNeula2
+    2300012: NuppiNeula3
+    2300014: SilmaNeula
+    3300000: HuovutusNeula
+    3300002: JewStar
+    3300004: MiekkaNeula
+    3300006: NAULA
+    3300008: NuppiNeula1
+    3300010: NuppiNeula2
+    3300012: NuppiNeula3
+    3300014: SilmaNeula
+    4300000: NUKKE
+    4300002: MiekkaNeula
+    4300004: HuovutusNeula
+    4300006: NuppiNeula3
+    4300008: NuppiNeula2
+    4300010: NuppiNeula1
+    4300012: SilmaNeula
+    4300014: NAULA
+    4300016: JewStar
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: NUKKE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
