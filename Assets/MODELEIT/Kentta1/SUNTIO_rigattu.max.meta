@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: fac27e29dd19d604cbf8c95643aac19c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AXE
+    100002: Bone004
+    100004: Bone004(mirrored)
+    100006: Bone010
+    100008: Bone012
+    100010: Circle003
+    100012: Circle004
+    100014: Circle005
+    100016: Circle006
+    100018: Circle007
+    100020: Circle008
+    100022: Circle009
+    100024: Circle010
+    100026: Circle011
+    100028: Circle012
+    100030: Circle013
+    100032: Circle014
+    100034: Head
+    100036: Hips
+    100038: IK Chain001
+    100040: IK Chain002
+    100042: IK Chain003
+    100044: IK Chain004
+    100046: KINGI
+    100048: LeftArm
+    100050: LeftDownLeg
+    100052: LeftEye
+    100054: LeftFoot
+    100056: LeftForeArm
+    100058: LeftHand
+    100060: LeftUpLeg
+    100062: RightArm
+    100064: RightDownLeg
+    100066: RightEye
+    100068: RightFoot
+    100070: RightForeArm
+    100072: RightHand
+    100074: RightUpLeg
+    100076: Suntio
+    100078: //RootNode
+    400000: AXE
+    400002: Bone004
+    400004: Bone004(mirrored)
+    400006: Bone010
+    400008: Bone012
+    400010: Circle003
+    400012: Circle004
+    400014: Circle005
+    400016: Circle006
+    400018: Circle007
+    400020: Circle008
+    400022: Circle009
+    400024: Circle010
+    400026: Circle011
+    400028: Circle012
+    400030: Circle013
+    400032: Circle014
+    400034: Head
+    400036: Hips
+    400038: IK Chain001
+    400040: IK Chain002
+    400042: IK Chain003
+    400044: IK Chain004
+    400046: KINGI
+    400048: LeftArm
+    400050: LeftDownLeg
+    400052: LeftEye
+    400054: LeftFoot
+    400056: LeftForeArm
+    400058: LeftHand
+    400060: LeftUpLeg
+    400062: RightArm
+    400064: RightDownLeg
+    400066: RightEye
+    400068: RightFoot
+    400070: RightForeArm
+    400072: RightHand
+    400074: RightUpLeg
+    400076: Suntio
+    400078: //RootNode
+    2300000: AXE
+    2300002: Circle003
+    2300004: Circle004
+    2300006: Circle005
+    2300008: Circle006
+    3300000: AXE
+    3300002: Circle003
+    3300004: Circle004
+    3300006: Circle005
+    3300008: Circle006
+    4300000: Suntio
+    4300002: Circle003
+    4300004: Circle004
+    4300006: Circle005
+    4300008: Circle006
+    4300010: AXE
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Suntio
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
