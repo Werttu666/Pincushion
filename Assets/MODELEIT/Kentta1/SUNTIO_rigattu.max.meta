@@ -43,6 +43,8 @@ ModelImporter:
     100074: RightUpLeg
     100076: Suntio
     100078: //RootNode
+    100080: Cylinder001
+    100082: Cylinder002
     400000: AXE
     400002: Bone004
     400004: Bone004(mirrored)
@@ -83,22 +85,30 @@ ModelImporter:
     400074: RightUpLeg
     400076: Suntio
     400078: //RootNode
+    400080: Cylinder001
+    400082: Cylinder002
     2300000: AXE
     2300002: Circle003
     2300004: Circle004
     2300006: Circle005
     2300008: Circle006
+    2300010: Cylinder001
+    2300012: Cylinder002
     3300000: AXE
     3300002: Circle003
     3300004: Circle004
     3300006: Circle005
     3300008: Circle006
+    3300010: Cylinder001
+    3300012: Cylinder002
     4300000: Suntio
     4300002: Circle003
     4300004: Circle004
     4300006: Circle005
     4300008: Circle006
     4300010: AXE
+    4300012: Cylinder001
+    4300014: Cylinder002
     7400000: Take 001
     9500000: //RootNode
     13700000: Suntio
