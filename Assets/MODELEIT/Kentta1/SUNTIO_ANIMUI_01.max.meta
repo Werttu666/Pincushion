@@ -45,6 +45,8 @@ ModelImporter:
     100078: RightUpLeg
     100080: Suntio
     100082: //RootNode
+    100084: Character001
+    100086: Hipo
     400000: AXE
     400002: Bone004
     400004: Bone004(mirrored)
@@ -87,6 +89,8 @@ ModelImporter:
     400078: RightUpLeg
     400080: Suntio
     400082: //RootNode
+    400084: Character001
+    400086: Hipo
     2300000: AXE
     2300002: Circle003
     2300004: Circle004

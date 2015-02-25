@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: fc757cccf7fd70045b2ffb6a05ff333a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AXE
+    100002: Bone004
+    100004: Bone004(mirrored)
+    100006: Bone010
+    100008: Bone012
+    100010: Cylinder001
+    100012: Cylinder002
+    100014: Head
+    100016: Hipo
+    100018: KINGI
+    100020: LeftArm
+    100022: LeftDownLeg
+    100024: LeftEye
+    100026: LeftFoot
+    100028: LeftForeArm
+    100030: LeftHand
+    100032: LeftUpLeg
+    100034: RightArm
+    100036: RightDownLeg
+    100038: RightEye
+    100040: RightFoot
+    100042: RightForeArm
+    100044: RightHand
+    100046: RightUpLeg
+    100048: Suntio
+    100050: //RootNode
+    400000: AXE
+    400002: Bone004
+    400004: Bone004(mirrored)
+    400006: Bone010
+    400008: Bone012
+    400010: Cylinder001
+    400012: Cylinder002
+    400014: Head
+    400016: Hipo
+    400018: KINGI
+    400020: LeftArm
+    400022: LeftDownLeg
+    400024: LeftEye
+    400026: LeftFoot
+    400028: LeftForeArm
+    400030: LeftHand
+    400032: LeftUpLeg
+    400034: RightArm
+    400036: RightDownLeg
+    400038: RightEye
+    400040: RightFoot
+    400042: RightForeArm
+    400044: RightHand
+    400046: RightUpLeg
+    400048: Suntio
+    400050: //RootNode
+    2300000: AXE
+    2300002: Cylinder001
+    2300004: Cylinder002
+    3300000: AXE
+    3300002: Cylinder001
+    3300004: Cylinder002
+    4300000: Suntio
+    4300002: Cylinder001
+    4300004: Cylinder002
+    4300006: AXE
+    7400000: IDLE
+    7400002: WalkFront
+    7400004: LYO
+    7400006: TakeCover
+    7400008: StayCover
+    9500000: //RootNode
+    13700000: Suntio
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IDLE
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hipo
+        weight: 1
+      - path: KINGI/Hipo/Head
+        weight: 1
+      - path: KINGI/Hipo/Head/Bone010
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder001
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder002
+        weight: 1
+      - path: KINGI/Hipo/Head/LeftEye
+        weight: 1
+      - path: KINGI/Hipo/Head/RightEye
+        weight: 1
+      - path: KINGI/Hipo/LeftArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot/Bone004
+        weight: 1
+      - path: KINGI/Hipo/RightArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/AXE
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/Bone012
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot/Bone004(mirrored)
+        weight: 1
+      - path: Suntio
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WalkFront
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hipo
+        weight: 1
+      - path: KINGI/Hipo/Head
+        weight: 1
+      - path: KINGI/Hipo/Head/Bone010
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder001
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder002
+        weight: 1
+      - path: KINGI/Hipo/Head/LeftEye
+        weight: 1
+      - path: KINGI/Hipo/Head/RightEye
+        weight: 1
+      - path: KINGI/Hipo/LeftArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot/Bone004
+        weight: 1
+      - path: KINGI/Hipo/RightArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/AXE
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/Bone012
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot/Bone004(mirrored)
+        weight: 1
+      - path: Suntio
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LYO
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hipo
+        weight: 1
+      - path: KINGI/Hipo/Head
+        weight: 1
+      - path: KINGI/Hipo/Head/Bone010
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder001
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder002
+        weight: 1
+      - path: KINGI/Hipo/Head/LeftEye
+        weight: 1
+      - path: KINGI/Hipo/Head/RightEye
+        weight: 1
+      - path: KINGI/Hipo/LeftArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot/Bone004
+        weight: 1
+      - path: KINGI/Hipo/RightArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/AXE
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/Bone012
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot/Bone004(mirrored)
+        weight: 1
+      - path: Suntio
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: TakeCover
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hipo
+        weight: 1
+      - path: KINGI/Hipo/Head
+        weight: 1
+      - path: KINGI/Hipo/Head/Bone010
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder001
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder002
+        weight: 1
+      - path: KINGI/Hipo/Head/LeftEye
+        weight: 1
+      - path: KINGI/Hipo/Head/RightEye
+        weight: 1
+      - path: KINGI/Hipo/LeftArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot/Bone004
+        weight: 1
+      - path: KINGI/Hipo/RightArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/AXE
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/Bone012
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot/Bone004(mirrored)
+        weight: 1
+      - path: Suntio
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: StayCover
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 140.100006
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hipo
+        weight: 1
+      - path: KINGI/Hipo/Head
+        weight: 1
+      - path: KINGI/Hipo/Head/Bone010
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder001
+        weight: 1
+      - path: KINGI/Hipo/Head/Cylinder002
+        weight: 1
+      - path: KINGI/Hipo/Head/LeftEye
+        weight: 1
+      - path: KINGI/Hipo/Head/RightEye
+        weight: 1
+      - path: KINGI/Hipo/LeftArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hipo/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hipo/LeftUpLeg/LeftDownLeg/LeftFoot/Bone004
+        weight: 1
+      - path: KINGI/Hipo/RightArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/AXE
+        weight: 1
+      - path: KINGI/Hipo/RightArm/RightForeArm/RightHand/Bone012
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot
+        weight: 1
+      - path: KINGI/Hipo/RightUpLeg/RightDownLeg/RightFoot/Bone004(mirrored)
+        weight: 1
+      - path: Suntio
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: KINGI
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
