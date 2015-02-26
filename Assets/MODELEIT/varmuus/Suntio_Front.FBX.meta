@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 14ea027dad686494e8ad6252b906f904
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AXE
+    100002: Bone004
+    100004: Bone004(mirrored)
+    100006: Bone010
+    100008: Bone012
+    100010: Cylinder001
+    100012: Cylinder002
+    100014: Head
+    100016: Hipo
+    100018: KINGI
+    100020: LeftArm
+    100022: LeftDownLeg
+    100024: LeftEye
+    100026: LeftFoot
+    100028: LeftForeArm
+    100030: LeftHand
+    100032: LeftUpLeg
+    100034: RightArm
+    100036: RightDownLeg
+    100038: RightEye
+    100040: RightFoot
+    100042: RightForeArm
+    100044: RightHand
+    100046: RightUpLeg
+    100048: Suntio
+    100050: //RootNode
+    400000: AXE
+    400002: Bone004
+    400004: Bone004(mirrored)
+    400006: Bone010
+    400008: Bone012
+    400010: Cylinder001
+    400012: Cylinder002
+    400014: Head
+    400016: Hipo
+    400018: KINGI
+    400020: LeftArm
+    400022: LeftDownLeg
+    400024: LeftEye
+    400026: LeftFoot
+    400028: LeftForeArm
+    400030: LeftHand
+    400032: LeftUpLeg
+    400034: RightArm
+    400036: RightDownLeg
+    400038: RightEye
+    400040: RightFoot
+    400042: RightForeArm
+    400044: RightHand
+    400046: RightUpLeg
+    400048: Suntio
+    400050: //RootNode
+    2300000: AXE
+    2300002: Cylinder001
+    2300004: Cylinder002
+    3300000: AXE
+    3300002: Cylinder001
+    3300004: Cylinder002
+    4300000: Suntio
+    4300002: Cylinder001
+    4300004: Cylinder002
+    4300006: AXE
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Suntio
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
