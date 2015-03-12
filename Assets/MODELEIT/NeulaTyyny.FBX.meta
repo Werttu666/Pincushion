@@ -63,6 +63,7 @@ ModelImporter:
     2300010: NuppiNeula3
     2300012: SilmaNeula
     2300014: JewStar
+    2300016: NUKKE
     3300000: HuovutusNeula
     3300002: MiekkaNeula
     3300004: NAULA
@@ -71,6 +72,7 @@ ModelImporter:
     3300010: NuppiNeula3
     3300012: SilmaNeula
     3300014: JewStar
+    3300016: NUKKE
     4300000: NUKKE
     4300002: MiekkaNeula
     4300004: HuovutusNeula
@@ -128,6 +130,8 @@ ModelImporter:
       events: []
       transformMask:
       - path: 
+        weight: 1
+      - path: JewStar
         weight: 1
       - path: KINGI
         weight: 1
@@ -195,7 +199,7 @@ ModelImporter:
       loopBlendPositionY: 1
       loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 1
       heightFromFeet: 1
       mirror: 0
@@ -204,6 +208,8 @@ ModelImporter:
       events: []
       transformMask:
       - path: 
+        weight: 1
+      - path: JewStar
         weight: 1
       - path: KINGI
         weight: 1
@@ -508,14 +514,6 @@ ModelImporter:
   copyAvatar: 0
   humanDescription:
     human:
-    - boneName: KINGI
-      humanName: Hips
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
     - boneName: LeftUpLeg
       humanName: LeftUpperLeg
       limit:
@@ -564,30 +562,6 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: RightArm
-      humanName: RightUpperArm
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: RightForeArm
-      humanName: RightLowerArm
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: RightHand
-      humanName: RightHand
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
     - boneName: Head
       humanName: Head
       limit:
@@ -620,8 +594,40 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
     - boneName: Hips
       humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: KINGI
+      humanName: Hips
       limit:
         min: {x: 0, y: 0, z: 0}
         max: {x: 0, y: 0, z: 0}
@@ -634,120 +640,125 @@ ModelImporter:
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
+    - name: JewStar
+      position: {x: -5.14602652e-05, y: .392601907, z: .177059069}
+      rotation: {x: -.143686697, y: -.0591135472, z: -.323547781, w: .933368385}
+      scale: {x: 1.17414999, y: 1.17414987, z: 1.17415011}
+      transformModified: 1
     - name: KINGI
-      position: {x: 0, y: 0, z: 0}
+      position: {x: -9.73020882e-15, y: .0384238809, z: -1.49011609e-10}
       rotation: {x: -5.00235842e-07, y: 5.11228848e-07, z: -.699380338, w: .714749694}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Hips
-      position: {x: -.379607409, y: .00825243723, z: -3.81469718e-08}
-      rotation: {x: .707064569, y: -.00768467318, z: .0076846825, w: -.707065463}
-      scale: {x: 1, y: 1.00000012, z: 1.00000012}
-      transformModified: 1
-    - name: NAULA
-      position: {x: -.0636062622, y: .252547622, z: -.0224980153}
-      rotation: {x: .436777443, y: -.471790761, z: .587233901, w: .491726875}
-      scale: {x: .747035205, y: .747035265, z: .747035325}
-      transformModified: 1
-    - name: NuppiNeula1
-      position: {x: -.0802998692, y: -.306774348, z: -.0819730163}
-      rotation: {x: -.462417871, y: .472554684, z: .522607803, w: .538277686}
-      scale: {x: 1.00000012, y: 1, z: 1}
-      transformModified: 1
-    - name: NuppiNeula2
-      position: {x: -.206977069, y: -.350050598, z: -.092045553}
-      rotation: {x: -.390601158, y: .516246915, z: .482743412, w: .589812398}
-      scale: {x: 1, y: 1.00000012, z: .999999821}
-      transformModified: 1
-    - name: NuppiNeula3
-      position: {x: -.150457188, y: -.327700377, z: .122027501}
-      rotation: {x: -.585390091, y: .605261862, z: .336374044, w: .421697795}
-      scale: {x: 1, y: 1, z: .99999994}
-      transformModified: 1
-    - name: SilmaNeula
-      position: {x: -.114606738, y: -.175582767, z: .00233230623}
-      rotation: {x: -.703367174, y: -.0436883382, z: -.231799394, w: .67054832}
-      scale: {x: 1.00000012, y: 1.00000012, z: 1}
-      transformModified: 1
-    - name: RightUpLeg
-      position: {x: -.0013388443, y: -2.56105341e-08, z: .0586399883}
-      rotation: {x: .102466561, y: .699643254, z: -.699643195, w: .102466427}
-      scale: {x: .999999881, y: 1.00000012, z: 1}
-      transformModified: 1
-    - name: LeftDownLeg 1
-      position: {x: -.193847537, y: 5.72204577e-08, z: -3.81469718e-08}
-      rotation: {x: 1.39235723e-07, y: -1.31512166e-07, z: .0183514412, w: .999831617}
-      scale: {x: 1.00000024, y: 1.00000012, z: .999999881}
-      transformModified: 1
-    - name: LeftFoot 1
-      position: {x: -.193336293, y: -3.81469718e-08, z: 1.43051144e-08}
-      rotation: {x: 7.92701726e-09, y: -1.81625415e-09, z: .00585630443, w: .999982893}
-      scale: {x: .999999583, y: .999999702, z: 1}
-      transformModified: 1
-    - name: LeftUpLeg
-      position: {x: -.00133880612, y: 2.35122566e-09, z: -.0586399958}
-      rotation: {x: -.102466501, y: .699643314, z: -.699643135, w: -.102466486}
-      scale: {x: .999999881, y: 1.00000012, z: 1}
-      transformModified: 1
-    - name: LeftDownLeg
-      position: {x: -.193847656, y: -7.62939436e-08, z: -1.90734859e-08}
-      rotation: {x: 4.18035846e-08, y: -4.59542759e-09, z: -.0183513928, w: .999831617}
-      scale: {x: 1.00000024, y: .999999881, z: .999999881}
-      transformModified: 1
-    - name: LeftFoot
-      position: {x: -.193336383, y: 0, z: 4.76837148e-09}
-      rotation: {x: -1.88443083e-09, y: -3.71431796e-09, z: -.00585658522, w: .999982893}
-      scale: {x: 1, y: 1, z: 1}
-      transformModified: 1
-    - name: RightArm
-      position: {x: -.174919277, y: 2.03820704e-07, z: .0741699934}
-      rotation: {x: .500000894, y: .499999195, z: -.499999046, w: .500000834}
-      scale: {x: 1.00000012, y: .99999994, z: 1}
-      transformModified: 1
-    - name: RightForeArm
-      position: {x: -.16901131, y: 0, z: 1.19209282e-08}
-      rotation: {x: 1.09741165e-07, y: -7.07659353e-08, z: -1.60760464e-06, w: 1}
-      scale: {x: 1, y: .99999994, z: .999999881}
-      transformModified: 1
-    - name: RightHand
-      position: {x: -.179060534, y: 0, z: -4.7683713e-08}
-      rotation: {x: .734887004, y: -.0324674882, z: .0296341069, w: .676763475}
-      scale: {x: 1, y: 1.00000012, z: 1}
-      transformModified: 1
-    - name: LeftArm
-      position: {x: -.174919203, y: 2.39187983e-07, z: -.0741710961}
-      rotation: {x: -.500001073, y: .499999076, z: -.499999017, w: -.500000834}
-      scale: {x: 1.00000012, y: 1.00000012, z: 1}
-      transformModified: 1
-    - name: LeftForeArm
-      position: {x: -.16901125, y: -3.81469718e-08, z: 3.57627861e-09}
-      rotation: {x: -2.31155131e-08, y: 6.01721624e-08, z: 1.89694651e-06, w: 1}
-      scale: {x: 1, y: .999999881, z: 1}
-      transformModified: 1
-    - name: HuovutusNeula
-      position: {x: -.0908883289, y: .217657045, z: .10179361}
-      rotation: {x: -.259358972, y: -.498440236, z: -.610574901, w: .558111608}
-      scale: {x: 1.00000012, y: 1, z: 1}
-      transformModified: 1
-    - name: LeftHand
-      position: {x: -.179060698, y: -3.81469718e-08, z: 0}
-      rotation: {x: -.706438303, y: -.0310701542, z: -.0309009943, w: .706416786}
+      position: {x: -.379607409, y: .00825244002, z: 9.14823747e-16}
+      rotation: {x: -.70706439, y: .00768430857, z: -.00768465921, w: .707065642}
       scale: {x: 1.00000012, y: 1, z: 1}
       transformModified: 1
     - name: Head
-      position: {x: -.231678352, y: 3.14046872e-07, z: 1.4532529e-08}
-      rotation: {x: 1.1920929e-07, y: 0, z: 0, w: 1}
-      scale: {x: 1.00000024, y: 1.00000012, z: 1}
-      transformModified: 1
-    - name: HeadTip
-      position: {x: -.529202163, y: 3.09199102e-08, z: 2.91181461e-08}
-      rotation: {x: -1.43043038e-15, y: 9.7021278e-17, z: .00979121681, w: .999952078}
+      position: {x: -.231678322, y: 3.140469e-07, z: 1.45325423e-08}
+      rotation: {x: 2.14272976e-14, y: -1.23459767e-17, z: -.000576179707, w: .999999821}
       scale: {x: 1.00000012, y: 1.00000012, z: 1}
       transformModified: 1
+    - name: HeadTip
+      position: {x: -.529202282, y: 3.12924371e-08, z: 2.91181994e-08}
+      rotation: {x: -1.19898293e-14, y: -1.17400646e-16, z: .00979121774, w: .999952078}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1}
+      transformModified: 1
     - name: MiekkaNeula
-      position: {x: -.483913571, y: -.37501204, z: -.104997404}
-      rotation: {x: .87422365, y: -.0530789606, z: -.442829102, w: -.191880196}
+      position: {x: -.483913958, y: -.37501207, z: -.104997411}
+      rotation: {x: .87422365, y: -.0530789681, z: -.442829102, w: -.191880211}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: LeftArm
+      position: {x: -.174919218, y: 2.39187784e-07, z: -.0741710961}
+      rotation: {x: .518196106, y: -.518175066, z: .48111257, w: .481142521}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: LeftForeArm
+      position: {x: -.16901128, y: 0, z: -8.3446503e-09}
+      rotation: {x: 2.870137e-06, y: .0737198442, z: 1.90457176e-05, w: .997278988}
+      scale: {x: .999999821, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: HuovutusNeula
+      position: {x: -.0908883289, y: .217656821, z: .101793617}
+      rotation: {x: -.259358913, y: -.498440266, z: -.610574901, w: .558111608}
       scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftHand
+      position: {x: -.179060668, y: 0, z: 9.53674295e-09}
+      rotation: {x: -.706434846, y: -.0310585406, z: -.0309360698, w: .70641923}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: LeftUpLeg
+      position: {x: -.00133880612, y: 2.35115283e-09, z: -.0586400032}
+      rotation: {x: -.013389295, y: .708154082, z: -.692205071, w: -.138530448}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: LeftDownLeg
+      position: {x: -.193847597, y: -6.67572024e-08, z: -9.53674295e-09}
+      rotation: {x: -.00318400026, y: -.173619002, z: -.0180574041, w: .984642208}
+      scale: {x: 1, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: LeftFoot
+      position: {x: -.193336368, y: 5.72204577e-08, z: -9.53674295e-09}
+      rotation: {x: -.0195160992, y: .0552476756, z: -.0526302792, w: .996893644}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: NAULA
+      position: {x: -.0636062771, y: .252547652, z: -.0224980544}
+      rotation: {x: .436777234, y: -.47179082, z: .587233841, w: .491727054}
+      scale: {x: .747035503, y: .747035384, z: .747035503}
+      transformModified: 1
+    - name: NuppiNeula1
+      position: {x: -.0802998543, y: -.306774378, z: -.0819729567}
+      rotation: {x: -.462417871, y: .472554684, z: .522607803, w: .538277686}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: NuppiNeula2
+      position: {x: -.20697698, y: -.35005042, z: -.0920455307}
+      rotation: {x: -.390601158, y: .516246915, z: .482743412, w: .589812398}
+      scale: {x: 1, y: 1.00000024, z: .999999821}
+      transformModified: 1
+    - name: NuppiNeula3
+      position: {x: -.150457278, y: -.327700257, z: .122027531}
+      rotation: {x: -.585390091, y: .605261862, z: .336374015, w: .421697795}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RightArm
+      position: {x: -.174919367, y: 2.03820647e-07, z: .0741699859}
+      rotation: {x: .483474314, y: .478791475, z: -.519562423, w: .516784608}
+      scale: {x: 1.00000012, y: .999999821, z: 1}
+      transformModified: 1
+    - name: RightForeArm
+      position: {x: -.16901134, y: -3.81469718e-08, z: -4.76837148e-09}
+      rotation: {x: -.000139910553, y: .0736968517, z: -.000795808563, w: .997280359}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: RightHand
+      position: {x: -.179060563, y: 0, z: -4.29153424e-08}
+      rotation: {x: .734886944, y: -.0324675068, z: .0296341255, w: .676763535}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RightUpLeg
+      position: {x: -.0013388443, y: -2.56105341e-08, z: .0586399846}
+      rotation: {x: -.138529807, y: -.692182958, z: .708175957, w: -.013383395}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: LeftDownLeg 1
+      position: {x: -.193847597, y: 5.72204577e-08, z: 0}
+      rotation: {x: .00318679516, y: -.173619062, z: .0180726834, w: .98464191}
+      scale: {x: 1.00000012, y: 1.00000072, z: 1.00000024}
+      transformModified: 1
+    - name: LeftFoot 1
+      position: {x: -.193336248, y: -3.81469718e-08, z: 1.43051144e-08}
+      rotation: {x: .0195192304, y: .0552591197, z: .0526323467, w: .99689281}
+      scale: {x: .999999583, y: .999999702, z: 1}
+      transformModified: 1
+    - name: SilmaNeula
+      position: {x: -.11460676, y: -.175582826, z: .00233230623}
+      rotation: {x: -.703367174, y: -.0436883233, z: -.231799394, w: .67054832}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000024}
       transformModified: 1
     - name: NUKKE
       position: {x: 0, y: .427090108, z: 1.86687021e-08}
@@ -761,7 +772,7 @@ ModelImporter:
     armStretch: .0500000007
     legStretch: .0500000007
     feetSpacing: 0
-    rootMotionBoneName: 
+    rootMotionBoneName: KINGI
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 3
   additionalBone: 0

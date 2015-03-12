@@ -17,21 +17,21 @@ Material:
         first:
           name: _MainTex
         second:
-          m_Texture: {fileID: 2800000, guid: 0e924cf4b4e7ab3438699878437ab55b, type: 3}
+          m_Texture: {fileID: 2800000, guid: 1ac185972ec22914793293c0c8733c13, type: 3}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
         first:
           name: _BumpMap
         second:
-          m_Texture: {fileID: 2800000, guid: a43752330c4134e46982d87caa716069, type: 3}
+          m_Texture: {fileID: 2800000, guid: 88a4fec6953671f4488d25a10f2954bb, type: 3}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
         first:
           name: _Illum
         second:
-          m_Texture: {fileID: 2800000, guid: a2ed6c68aa2e5e14aa8bf4ec616c2122, type: 3}
+          m_Texture: {fileID: 2800000, guid: 3e6155a698cb938418a0c79ae446bed6, type: 3}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
     m_Floats:

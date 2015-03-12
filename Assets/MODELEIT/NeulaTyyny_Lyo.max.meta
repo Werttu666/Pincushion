@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 7971e11b3f118754dac2aad26ad4a51c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Character001
+    100002: Circle001
+    100004: Circle002
+    100006: Circle003
+    100008: Circle004
+    100010: Circle007
+    100012: Circle008
+    100014: Circle009
+    100016: Circle010
+    100018: Circle011
+    100020: Circle012
+    100022: Head
+    100024: HeadTip
+    100026: Hips
+    100028: HuovutusNeula
+    100030: IK Chain001
+    100032: IK Chain002
+    100034: IK Chain003
+    100036: IK Chain004
+    100038: KINGI
+    100040: LeftArm
+    100042: LeftDownLeg
+    100044: LeftDownLeg 1
+    100046: LeftFoot
+    100048: LeftFoot 1
+    100050: LeftForeArm
+    100052: LeftHand
+    100054: LeftUpLeg
+    100056: MiekkaNeula
+    100058: NAULA
+    100060: //RootNode
+    100062: NUKKE
+    100064: NuppiNeula1
+    100066: NuppiNeula2
+    100068: NuppiNeula3
+    100070: RightArm
+    100072: RightForeArm
+    100074: RightHand
+    100076: RightUpLeg
+    100078: SilmaNeula
+    400000: Character001
+    400002: Circle001
+    400004: Circle002
+    400006: Circle003
+    400008: Circle004
+    400010: Circle007
+    400012: Circle008
+    400014: Circle009
+    400016: Circle010
+    400018: Circle011
+    400020: Circle012
+    400022: Head
+    400024: HeadTip
+    400026: Hips
+    400028: HuovutusNeula
+    400030: IK Chain001
+    400032: IK Chain002
+    400034: IK Chain003
+    400036: IK Chain004
+    400038: KINGI
+    400040: LeftArm
+    400042: LeftDownLeg
+    400044: LeftDownLeg 1
+    400046: LeftFoot
+    400048: LeftFoot 1
+    400050: LeftForeArm
+    400052: LeftHand
+    400054: LeftUpLeg
+    400056: MiekkaNeula
+    400058: NAULA
+    400060: //RootNode
+    400062: NUKKE
+    400064: NuppiNeula1
+    400066: NuppiNeula2
+    400068: NuppiNeula3
+    400070: RightArm
+    400072: RightForeArm
+    400074: RightHand
+    400076: RightUpLeg
+    400078: SilmaNeula
+    2300000: Circle001
+    2300002: Circle002
+    2300004: Circle003
+    2300006: Circle004
+    2300008: Circle007
+    2300010: Circle008
+    2300012: Circle009
+    2300014: Circle010
+    2300016: Circle012
+    2300018: HuovutusNeula
+    2300020: MiekkaNeula
+    2300022: NAULA
+    2300024: NuppiNeula1
+    2300026: NuppiNeula2
+    2300028: NuppiNeula3
+    2300030: SilmaNeula
+    3300000: Circle001
+    3300002: Circle002
+    3300004: Circle003
+    3300006: Circle004
+    3300008: Circle007
+    3300010: Circle008
+    3300012: Circle009
+    3300014: Circle010
+    3300016: Circle012
+    3300018: HuovutusNeula
+    3300020: MiekkaNeula
+    3300022: NAULA
+    3300024: NuppiNeula1
+    3300026: NuppiNeula2
+    3300028: NuppiNeula3
+    3300030: SilmaNeula
+    4300000: NUKKE
+    4300002: HuovutusNeula
+    4300004: MiekkaNeula
+    4300006: NAULA
+    4300008: NuppiNeula3
+    4300010: NuppiNeula2
+    4300012: NuppiNeula1
+    4300014: SilmaNeula
+    4300016: Circle008
+    4300018: Circle002
+    4300020: Circle001
+    4300022: Circle012
+    4300024: Circle010
+    4300026: Circle003
+    4300028: Circle009
+    4300030: Circle004
+    4300032: Circle007
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: NUKKE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

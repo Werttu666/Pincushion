@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 4ffb914f655992a40b7d0de36424f09e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Head
+    100002: HeadTip
+    100004: Hips
+    100006: HuovutusNeula
+    100008: KINGI
+    100010: LeftArm
+    100012: LeftDownLeg
+    100014: LeftDownLeg 1
+    100016: LeftFoot
+    100018: LeftFoot 1
+    100020: LeftForeArm
+    100022: LeftHand
+    100024: LeftUpLeg
+    100026: MiekkaNeula
+    100028: NAULA
+    100030: //RootNode
+    100032: NUKKE
+    100034: NuppiNeula1
+    100036: NuppiNeula2
+    100038: NuppiNeula3
+    100040: RightArm
+    100042: RightForeArm
+    100044: RightHand
+    100046: RightUpLeg
+    100048: SilmaNeula
+    400000: Head
+    400002: HeadTip
+    400004: Hips
+    400006: HuovutusNeula
+    400008: KINGI
+    400010: LeftArm
+    400012: LeftDownLeg
+    400014: LeftDownLeg 1
+    400016: LeftFoot
+    400018: LeftFoot 1
+    400020: LeftForeArm
+    400022: LeftHand
+    400024: LeftUpLeg
+    400026: MiekkaNeula
+    400028: NAULA
+    400030: //RootNode
+    400032: NUKKE
+    400034: NuppiNeula1
+    400036: NuppiNeula2
+    400038: NuppiNeula3
+    400040: RightArm
+    400042: RightForeArm
+    400044: RightHand
+    400046: RightUpLeg
+    400048: SilmaNeula
+    2300000: HuovutusNeula
+    2300002: MiekkaNeula
+    2300004: NAULA
+    2300006: NuppiNeula1
+    2300008: NuppiNeula2
+    2300010: NuppiNeula3
+    2300012: SilmaNeula
+    3300000: HuovutusNeula
+    3300002: MiekkaNeula
+    3300004: NAULA
+    3300006: NuppiNeula1
+    3300008: NuppiNeula2
+    3300010: NuppiNeula3
+    3300012: SilmaNeula
+    4300000: NUKKE
+    4300002: HuovutusNeula
+    4300004: MiekkaNeula
+    4300006: NAULA
+    4300008: NuppiNeula3
+    4300010: NuppiNeula2
+    4300012: NuppiNeula1
+    4300014: SilmaNeula
+    7400000: Lyo
+    9500000: //RootNode
+    13700000: NUKKE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Lyo
+      takeName: Take 001
+      firstFrame: 180
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/Hips
+        weight: 1
+      - path: KINGI/Hips/Head
+        weight: 1
+      - path: KINGI/Hips/Head/HeadTip
+        weight: 0
+      - path: KINGI/Hips/LeftArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm
+        weight: 1
+      - path: KINGI/Hips/LeftArm/LeftForeArm/HuovutusNeula
+        weight: 0
+      - path: KINGI/Hips/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: KINGI/Hips/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: KINGI/Hips/NAULA
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula1
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula2
+        weight: 0
+      - path: KINGI/Hips/NuppiNeula3
+        weight: 0
+      - path: KINGI/Hips/RightArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: KINGI/Hips/RightArm/RightForeArm/RightHand/MiekkaNeula
+        weight: 0
+      - path: KINGI/Hips/RightUpLeg
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1
+        weight: 1
+      - path: KINGI/Hips/RightUpLeg/LeftDownLeg 1/LeftFoot 1
+        weight: 1
+      - path: KINGI/Hips/SilmaNeula
+        weight: 0
+      - path: NUKKE
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftDownLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftDownLeg 1
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot 1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hips
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: KINGI
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NeulaTyyny(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JewStar
+      position: {x: -5.14602652e-05, y: .392601907, z: .177059069}
+      rotation: {x: -.143686697, y: -.0591135472, z: -.323547781, w: .933368385}
+      scale: {x: 1.17414999, y: 1.17414987, z: 1.17415011}
+      transformModified: 1
+    - name: KINGI
+      position: {x: -9.73020882e-15, y: .0384238809, z: -1.49011609e-10}
+      rotation: {x: -5.00235842e-07, y: 5.11228848e-07, z: -.699380338, w: .714749694}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hips
+      position: {x: -.379607409, y: .00825244002, z: 9.14823747e-16}
+      rotation: {x: -.70706439, y: .00768430857, z: -.00768465921, w: .707065642}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -.231678322, y: 3.140469e-07, z: 1.45325423e-08}
+      rotation: {x: 2.14272976e-14, y: -1.23459767e-17, z: -.000576179707, w: .999999821}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HeadTip
+      position: {x: -.529202282, y: 3.12924371e-08, z: 2.91181994e-08}
+      rotation: {x: -1.19898293e-14, y: -1.17400646e-16, z: .00979121774, w: .999952078}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: MiekkaNeula
+      position: {x: -.483913958, y: -.37501207, z: -.104997411}
+      rotation: {x: .87422365, y: -.0530789681, z: -.442829102, w: -.191880211}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: LeftArm
+      position: {x: -.174919218, y: 2.39187784e-07, z: -.0741710961}
+      rotation: {x: .518196106, y: -.518175066, z: .48111257, w: .481142521}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: LeftForeArm
+      position: {x: -.16901128, y: 0, z: -8.3446503e-09}
+      rotation: {x: 2.870137e-06, y: .0737198442, z: 1.90457176e-05, w: .997278988}
+      scale: {x: .999999821, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: HuovutusNeula
+      position: {x: -.0908883289, y: .217656821, z: .101793617}
+      rotation: {x: -.259358913, y: -.498440266, z: -.610574901, w: .558111608}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftHand
+      position: {x: -.179060668, y: 0, z: 9.53674295e-09}
+      rotation: {x: -.706434846, y: -.0310585406, z: -.0309360698, w: .70641923}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: LeftUpLeg
+      position: {x: -.00133880612, y: 2.35115283e-09, z: -.0586400032}
+      rotation: {x: -.013389295, y: .708154082, z: -.692205071, w: -.138530448}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: LeftDownLeg
+      position: {x: -.193847597, y: -6.67572024e-08, z: -9.53674295e-09}
+      rotation: {x: -.00318400026, y: -.173619002, z: -.0180574041, w: .984642208}
+      scale: {x: 1, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: LeftFoot
+      position: {x: -.193336368, y: 5.72204577e-08, z: -9.53674295e-09}
+      rotation: {x: -.0195160992, y: .0552476756, z: -.0526302792, w: .996893644}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: NAULA
+      position: {x: -.0636062771, y: .252547652, z: -.0224980544}
+      rotation: {x: .436777234, y: -.47179082, z: .587233841, w: .491727054}
+      scale: {x: .747035503, y: .747035384, z: .747035503}
+      transformModified: 1
+    - name: NuppiNeula1
+      position: {x: -.0802998543, y: -.306774378, z: -.0819729567}
+      rotation: {x: -.462417871, y: .472554684, z: .522607803, w: .538277686}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: NuppiNeula2
+      position: {x: -.20697698, y: -.35005042, z: -.0920455307}
+      rotation: {x: -.390601158, y: .516246915, z: .482743412, w: .589812398}
+      scale: {x: 1, y: 1.00000024, z: .999999821}
+      transformModified: 1
+    - name: NuppiNeula3
+      position: {x: -.150457278, y: -.327700257, z: .122027531}
+      rotation: {x: -.585390091, y: .605261862, z: .336374015, w: .421697795}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RightArm
+      position: {x: -.174919367, y: 2.03820647e-07, z: .0741699859}
+      rotation: {x: .483474314, y: .478791475, z: -.519562423, w: .516784608}
+      scale: {x: 1.00000012, y: .999999821, z: 1}
+      transformModified: 1
+    - name: RightForeArm
+      position: {x: -.16901134, y: -3.81469718e-08, z: -4.76837148e-09}
+      rotation: {x: -.000139910553, y: .0736968517, z: -.000795808563, w: .997280359}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: RightHand
+      position: {x: -.179060563, y: 0, z: -4.29153424e-08}
+      rotation: {x: .734886944, y: -.0324675068, z: .0296341255, w: .676763535}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RightUpLeg
+      position: {x: -.0013388443, y: -2.56105341e-08, z: .0586399846}
+      rotation: {x: -.138529807, y: -.692182958, z: .708175957, w: -.013383395}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: LeftDownLeg 1
+      position: {x: -.193847597, y: 5.72204577e-08, z: 0}
+      rotation: {x: .00318679516, y: -.173619062, z: .0180726834, w: .98464191}
+      scale: {x: 1.00000012, y: 1.00000072, z: 1.00000024}
+      transformModified: 1
+    - name: LeftFoot 1
+      position: {x: -.193336248, y: -3.81469718e-08, z: 1.43051144e-08}
+      rotation: {x: .0195192304, y: .0552591197, z: .0526323467, w: .99689281}
+      scale: {x: .999999583, y: .999999702, z: 1}
+      transformModified: 1
+    - name: SilmaNeula
+      position: {x: -.11460676, y: -.175582826, z: .00233230623}
+      rotation: {x: -.703367174, y: -.0436883233, z: -.231799394, w: .67054832}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: NUKKE
+      position: {x: 0, y: .427090108, z: 1.86687021e-08}
+      rotation: {x: 6.65790267e-08, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: KINGI
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 56f91dd0eed696a44a3b62c98a35acf2,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 

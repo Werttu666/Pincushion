@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: dc6489be64805c04aa2d080e053eeaea
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Head
+    100002: HeadTip
+    100004: Hips
+    100006: HuovutusNeula
+    100008: KINGI
+    100010: LeftArm
+    100012: LeftDownLeg
+    100014: LeftDownLeg 1
+    100016: LeftFoot
+    100018: LeftFoot 1
+    100020: LeftForeArm
+    100022: LeftHand
+    100024: LeftUpLeg
+    100026: NAULA
+    100028: //RootNode
+    100030: NUKKE
+    100032: RightArm
+    100034: RightForeArm
+    100036: RightHand
+    100038: RightUpLeg
+    100040: SilmaNeula
+    100042: MiekkaNeula
+    100044: NuppiNeula1
+    100046: NuppiNeula2
+    100048: NuppiNeula3
+    100050: SilmanKollisio
+    400000: Head
+    400002: HeadTip
+    400004: Hips
+    400006: HuovutusNeula
+    400008: KINGI
+    400010: LeftArm
+    400012: LeftDownLeg
+    400014: LeftDownLeg 1
+    400016: LeftFoot
+    400018: LeftFoot 1
+    400020: LeftForeArm
+    400022: LeftHand
+    400024: LeftUpLeg
+    400026: NAULA
+    400028: //RootNode
+    400030: NUKKE
+    400032: RightArm
+    400034: RightForeArm
+    400036: RightHand
+    400038: RightUpLeg
+    400040: SilmaNeula
+    400042: MiekkaNeula
+    400044: NuppiNeula1
+    400046: NuppiNeula2
+    400048: NuppiNeula3
+    400050: SilmanKollisio
+    2300000: HuovutusNeula
+    2300002: NAULA
+    2300004: SilmaNeula
+    2300006: MiekkaNeula
+    2300008: NuppiNeula1
+    2300010: NuppiNeula2
+    2300012: NuppiNeula3
+    2300014: SilmanKollisio
+    3300000: HuovutusNeula
+    3300002: NAULA
+    3300004: SilmaNeula
+    3300006: MiekkaNeula
+    3300008: NuppiNeula1
+    3300010: NuppiNeula2
+    3300012: NuppiNeula3
+    3300014: SilmanKollisio
+    4300000: NUKKE
+    4300002: HuovutusNeula
+    4300004: NAULA
+    4300006: SilmaNeula
+    4300008: SilmanKollisio
+    4300010: MiekkaNeula
+    4300012: NuppiNeula3
+    4300014: NuppiNeula2
+    4300016: NuppiNeula1
+    7400000: Satkii
+    7400002: Tarisee
+    9500000: //RootNode
+    13700000: NUKKE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Satkii
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/Head
+        weight: 1
+      - path: Hips/Head/HeadTip
+        weight: 1
+      - path: Hips/Head/SilmanKollisio
+        weight: 1
+      - path: Hips/LeftArm
+        weight: 1
+      - path: Hips/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/LeftArm/LeftForeArm/HuovutusNeula
+        weight: 1
+      - path: Hips/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: Hips/NAULA
+        weight: 1
+      - path: Hips/NuppiNeula1
+        weight: 1
+      - path: Hips/NuppiNeula2
+        weight: 1
+      - path: Hips/NuppiNeula3
+        weight: 1
+      - path: Hips/RightArm
+        weight: 1
+      - path: Hips/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/RightArm/RightForeArm/RightHand/MiekkaNeula
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/LeftDownLeg 1
+        weight: 1
+      - path: Hips/RightUpLeg/LeftDownLeg 1/LeftFoot 1
+        weight: 1
+      - path: Hips/SilmaNeula
+        weight: 1
+      - path: NUKKE
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Tarisee
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/Head
+        weight: 1
+      - path: Hips/Head/HeadTip
+        weight: 1
+      - path: Hips/Head/SilmanKollisio
+        weight: 1
+      - path: Hips/LeftArm
+        weight: 1
+      - path: Hips/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/LeftArm/LeftForeArm/HuovutusNeula
+        weight: 1
+      - path: Hips/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftDownLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftDownLeg/LeftFoot
+        weight: 1
+      - path: Hips/NAULA
+        weight: 1
+      - path: Hips/NuppiNeula1
+        weight: 1
+      - path: Hips/NuppiNeula2
+        weight: 1
+      - path: Hips/NuppiNeula3
+        weight: 1
+      - path: Hips/RightArm
+        weight: 1
+      - path: Hips/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/RightArm/RightForeArm/RightHand/MiekkaNeula
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/LeftDownLeg 1
+        weight: 1
+      - path: Hips/RightUpLeg/LeftDownLeg 1/LeftFoot 1
+        weight: 1
+      - path: Hips/SilmaNeula
+        weight: 1
+      - path: NUKKE
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 24c3919086c607e4c8b30cefa474eda0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bn_head_01
+    100002: bn_hip_01
+    100004: bn_left_arm_01
+    100006: bn_left_foot_01
+    100008: bn_left_hair_01
+    100010: bn_left_hair_02
+    100012: bn_left_hair_03
+    100014: bn_left_hair_04
+    100016: bn_left_hand_01
+    100018: bn_left_leg_01
+    100020: bn_lmiddle_hair_01
+    100022: bn_lmiddle_hair_02
+    100024: bn_lmiddle_hair_02 1
+    100026: bn_lmiddle_hair_03
+    100028: bn_right_arm_01
+    100030: bn_right_foot_01
+    100032: bn_right_hair_01
+    100034: bn_right_hair_02
+    100036: bn_right_hair_03
+    100038: bn_right_hair_04
+    100040: bn_right_hand_01
+    100042: bn_right_leg_01
+    100044: bn_spine_01
+    100046: bn_strand_01
+    100048: bn_strand_02
+    100050: bn_strand_03
+    100052: bn_strand_04
+    100054: Dress
+    100056: Hair
+    100058: Head001
+    100060: KINGI
+    100062: Left_Arm
+    100064: Left_Eye
+    100066: Left_Leg
+    100068: //RootNode
+    100070: Right_Arm
+    100072: Right_Eye
+    100074: Right_Leg
+    400000: bn_head_01
+    400002: bn_hip_01
+    400004: bn_left_arm_01
+    400006: bn_left_foot_01
+    400008: bn_left_hair_01
+    400010: bn_left_hair_02
+    400012: bn_left_hair_03
+    400014: bn_left_hair_04
+    400016: bn_left_hand_01
+    400018: bn_left_leg_01
+    400020: bn_lmiddle_hair_01
+    400022: bn_lmiddle_hair_02
+    400024: bn_lmiddle_hair_02 1
+    400026: bn_lmiddle_hair_03
+    400028: bn_right_arm_01
+    400030: bn_right_foot_01
+    400032: bn_right_hair_01
+    400034: bn_right_hair_02
+    400036: bn_right_hair_03
+    400038: bn_right_hair_04
+    400040: bn_right_hand_01
+    400042: bn_right_leg_01
+    400044: bn_spine_01
+    400046: bn_strand_01
+    400048: bn_strand_02
+    400050: bn_strand_03
+    400052: bn_strand_04
+    400054: Dress
+    400056: Hair
+    400058: Head001
+    400060: KINGI
+    400062: Left_Arm
+    400064: Left_Eye
+    400066: Left_Leg
+    400068: //RootNode
+    400070: Right_Arm
+    400072: Right_Eye
+    400074: Right_Leg
+    4300000: Hair
+    4300002: Head001
+    4300004: Left_Eye
+    4300006: Right_Eye
+    4300008: Dress
+    4300010: Left_Arm
+    4300012: Right_Arm
+    4300014: Left_Leg
+    4300016: Right_Leg
+    7400000: LayIdle
+    9500000: //RootNode
+    13700000: Dress
+    13700002: Hair
+    13700004: Head001
+    13700006: Left_Arm
+    13700008: Left_Eye
+    13700010: Left_Leg
+    13700012: Right_Arm
+    13700014: Right_Eye
+    13700016: Right_Leg
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LayIdle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dress
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Head001
+        weight: 1
+      - path: Head001/Left_Eye
+        weight: 1
+      - path: Head001/Right_Eye
+        weight: 1
+      - path: KINGI
+        weight: 1
+      - path: KINGI/bn_hip_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_left_leg_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_left_leg_01/bn_left_foot_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_right_leg_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_right_leg_01/bn_right_foot_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_left_hair_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_left_hair_01/bn_left_hair_02
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_left_hair_01/bn_left_hair_02/bn_left_hair_03
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_left_hair_01/bn_left_hair_02/bn_left_hair_03/bn_left_hair_04
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_lmiddle_hair_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_lmiddle_hair_01/bn_lmiddle_hair_02
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_lmiddle_hair_01/bn_lmiddle_hair_02/bn_lmiddle_hair_02
+          1
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_lmiddle_hair_01/bn_lmiddle_hair_02/bn_lmiddle_hair_02
+          1/bn_lmiddle_hair_03
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_right_hair_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_right_hair_01/bn_right_hair_02
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_right_hair_01/bn_right_hair_02/bn_right_hair_03
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_right_hair_01/bn_right_hair_02/bn_right_hair_03/bn_right_hair_04
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_strand_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_strand_01/bn_strand_02
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_strand_01/bn_strand_02/bn_strand_03
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_head_01/bn_strand_01/bn_strand_02/bn_strand_03/bn_strand_04
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_left_arm_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_left_arm_01/bn_left_hand_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_right_arm_01
+        weight: 1
+      - path: KINGI/bn_hip_01/bn_spine_01/bn_right_arm_01/bn_right_hand_01
+        weight: 1
+      - path: Left_Arm
+        weight: 1
+      - path: Left_Leg
+        weight: 1
+      - path: Right_Arm
+        weight: 1
+      - path: Right_Leg
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
